@@ -1,0 +1,5 @@
+# Build artifact — packaged extension
+*.zip
+
+__pycache__/
+.DS_Store

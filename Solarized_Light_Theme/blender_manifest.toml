@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+# Version
+id = "Solarized_Light_Theme"
+version = "1.1.0"
+name = "Solarized Light"
+tagline = "True Solarized Light, readable in edit mode"
+maintainer = "MoonyTheDream <moonchasered@gmail.com>"
+# Supported types
+type = "theme"
+
+# Tags
+tags = ["Light", "Solarized"]
+
+# Support version
+blender_version_min = "5.0.0"
+
+# License
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
